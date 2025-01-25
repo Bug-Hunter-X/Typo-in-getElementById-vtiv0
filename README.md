@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML and JavaScript interaction. The bug showcases an incorrect use of the `getElementById` method, highlighting the importance of careful attention to detail when working with DOM manipulation. The solution provides the corrected code snippet, illustrating the correct syntax for selecting elements.
